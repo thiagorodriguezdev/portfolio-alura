@@ -127,6 +127,10 @@ body {
     padding: 10%;
   }
 
+  .apresentacao__conteudo__titulo {
+    text-align: center;
+  }
+
   .cabecalho__menu {
     justify-content: center;
   }
