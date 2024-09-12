@@ -12,6 +12,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Alura
 
 ### Linkedin: https://www.linkedin.com/school/aluracursos/
